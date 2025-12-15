@@ -3,10 +3,15 @@
  * Database Configuration
  */
 
+// define('DB_HOST', 'localhost');
+// define('DB_USER', 'root');
+// define('DB_PASS', '');
+// define('DB_NAME', 'rms_db');
+
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'rms_db');
+define('DB_USER', 'u562838275_rms');
+define('DB_PASS', '#kTaz@D3j');
+define('DB_NAME', 'u562838275_rms');
 
 // Create database connection
 $conn = mysqli_connect(DB_HOST, DB_USER, DB_PASS, DB_NAME);

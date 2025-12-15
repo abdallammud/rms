@@ -5,9 +5,9 @@ $GLOBALS['msgProvider']  	= "hormuud";
 $GLOBALS['sms_username'] 	= "SOSTEC1";
 $GLOBALS['sms_password']  	= "0iLUAuy/emJYYyHytvOF8g==";
 // $GLOBALS['sms_password']  	= "0iLUAuy/emJYYyHytvOF8g";
-$GLOBALS['sms_sid'] 	 	= "SOSTEC"; // no space {prefer number} https://1s2u.com/sms/API-V2.0.pdf
-$GLOBALS['sms_signature']  	= "SOSTEC";
-$GLOBALS['sender_name']  	= "SOSTEC TECHNOLOGIES";
+$GLOBALS['sms_sid'] 	 	= "RMS"; // no space {prefer number} https://1s2u.com/sms/API-V2.0.pdf
+$GLOBALS['sms_signature']  	= "REM SYSTEM";
+$GLOBALS['sender_name']  	= "REMITTENCE SYS";
 
 $GLOBALS['sms_subject']  	= "SMS Subject";
 
